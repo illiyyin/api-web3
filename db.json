@@ -1,6 +1,6 @@
 {
 "portofolio" : [
-{"id":1,"nama":"Air Boeing","year":"2019"},
+{"id":1,"nama":"Air Boeing","year":"2019","image":./1.webp},
 {"id":2,"nama":"Raimuna Nasional","year":"2017"},
 {"id":3,"nama":"Mr. Bembeng","year":"2018"},
 {"id":4,"nama":"IMUN","year":"2019"},
