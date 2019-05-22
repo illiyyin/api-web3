@@ -2,12 +2,12 @@
 "portofolio" : [
 {"id":1,"nama":"Air Boeing","year":"2019","image":"https://i.ibb.co/883CSKN/1.png"},
 {"id":2,"nama":"Raimuna Nasional","year":"2017","image":"https://i.ibb.co/dpf0bQW/2.png"},
-{"id":3,"nama":"Mr. Bembeng","year":"2018"},
-{"id":4,"nama":"IMUN","year":"2019"},
-{"id":5,"nama":"I 'n M","year":"2019"},
-{"id":6,"nama":"Wirakarya Daerah","year":"2017"},
-{"id":7,"nama":"Saturday Night","year":"2019"},
-{"id":8,"nama":"Skadoosh","year":"2019"},
-{"id":9,"nama":"Informatika UNS","year":"2018"}  
+{"id":3,"nama":"Mr. Bembeng","year":"2018","image":"https://i.ibb.co/r2YH5kn/3.png"},
+{"id":4,"nama":"IMUN","year":"2019","image":"https://i.ibb.co/5kvzVFQ/4.png"},
+{"id":5,"nama":"I 'n M","year":"2019","image":"https://i.ibb.co/1vGnpRk/5.png"},
+{"id":6,"nama":"Wirakarya Daerah","year":"2017","image":"https://i.ibb.co/3skyQ7b/6.png"},
+{"id":7,"nama":"Saturday Night","year":"2019","image":"https://i.ibb.co/L1JRKCW/7.png"},
+{"id":8,"nama":"Skadoosh","year":"2019","image":"https://i.ibb.co/BwxTwf7/8.png"},
+{"id":9,"nama":"Informatika UNS","year":"2018","image":"https://i.ibb.co/L5Z9mXq/9.png"}  
 ]
 }
